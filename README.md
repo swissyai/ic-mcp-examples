@@ -2,6 +2,13 @@
 
 Full source code for 35 Internet Computer examples, curated for AI agent learning via [IC-MCP](https://github.com/swissyai/ICP-MCP).
 
+**Repository:** https://github.com/swissyai/ic-mcp-examples
+
+**Important Disclaimers:**
+- These examples may become outdated over time
+- For the most up-to-date examples, visit [ICP.ninja](https://icp.ninja/)
+- Not affiliated with DFINITY Foundation or ICP.ninja
+
 ## Purpose
 
 This repository provides complete, runnable ICP projects that AI agents can reference to learn real-world patterns. No inference needed - just actual production code.
