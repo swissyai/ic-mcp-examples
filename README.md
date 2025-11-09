@@ -1,6 +1,6 @@
 # ICP-MCP Examples
 
-Full source code for 35 Internet Computer examples, curated for AI agent learning via [IC-MCP](https://github.com/your-username/ICP-MCP).
+Full source code for 35 Internet Computer examples, curated for AI agent learning via [IC-MCP](https://github.com/swissyai/ICP-MCP).
 
 ## Purpose
 
@@ -51,8 +51,8 @@ AI agents using IC-MCP can:
 3. **Learn** from actual production patterns
 
 Example URLs for fetching:
-- `https://raw.githubusercontent.com/your-username/icp-mcp-examples/main/llm-chatbot/backend/app.mo`
-- `https://raw.githubusercontent.com/your-username/icp-mcp-examples/main/llm-chatbot/dfx.json`
+- `https://raw.githubusercontent.com/swissyai/icp-mcp-examples/main/llm-chatbot/backend/app.mo`
+- `https://raw.githubusercontent.com/swissyai/icp-mcp-examples/main/llm-chatbot/dfx.json`
 
 ## Source
 
